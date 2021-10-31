@@ -1,11 +1,11 @@
-Assignment 7 - sentiment analysis
+Sentiment analysis
 ================
 Koray Poyraz
 10/29/2021
 
-# Assignment Text Mining
+# Text Mining
 
-## Step 1: Load this data set and split it into training (80%) and test (20%) sets.
+## Step 1: Load data set and split it into training (80%) and test (20%) sets.
 
 ``` r
 # apply regex to remove html tags
@@ -33,7 +33,7 @@ dim(test_df)
 
     ## [1] 1000    3
 
-## Step 2: Create a TFiDF representation + run a Naïve Bayes or SVM classifier
+## Step 2: Create a TFiDF representation + run a SVM classifier
 
 create tf idf vectors for train set
 
