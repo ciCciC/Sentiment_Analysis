@@ -1,4 +1,4 @@
-Assignment 7 - sentiment analysis
+Sentiment analysis
 ================
 Koray Poyraz
 10/29/2021
